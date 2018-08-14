@@ -1,2 +1,3 @@
 # hello-world
 not sure what this is yet...
+im damo think this is the start of me learning how to code
